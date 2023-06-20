@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frank-navara
+- 👀 I’m interested in Web Scraping, Bias in Machine Learning, Anomaly Detection and GeoData
+- 🌱 I’m currently learning Angular and Azure
+- 💞️ I’m looking to collaborate on impactful data projects
+- 📫 Reach  me by sending me a slack message or an email at frank.stapel@navara.nl
